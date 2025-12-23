@@ -1,0 +1,5 @@
+{
+  "name": "Vocational Course Explorer",
+  "description": "A Material 3 inspired application for searching and filtering vocational training courses from CSV data with Arabic RTL support.",
+  "requestFramePermissions": []
+}
